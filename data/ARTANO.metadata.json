@@ -1,3 +1,5 @@
 {
-    "json": "json"
+    "name": "someone",
+    "age": 123,
+    "car": null
 }
