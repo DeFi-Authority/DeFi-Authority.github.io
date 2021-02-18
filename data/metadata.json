@@ -1,6 +1,34 @@
 {
-    "name": "Artano NFT Pool",
-    "description": "Artano is an NFT art Marketplace based on Cardano. NFT adoption on Cardano, here we come! :)",
-    "ticker": "ARTA",
-    "homepage": "https://artano.io"
+    "poolName": "ARTANO",
+    "poolOwner": [
+        {
+            "ownerName": "mattdefi",
+            "ownerWitness": "local"
+        }
+    ],
+    "poolRewards": "mattdefi",
+    "poolPledge": "21000000000",
+    "poolCost": "340000000",
+    "poolMargin": "0.0",
+    "poolRelays": [
+        {
+            "relayType": "ip",
+            "relayEntry": "23.94.143.111",
+            "relayPort": "6300"
+        }
+    ],
+    "poolMetaName": "Artano NFT Pool",
+    "poolMetaDescription": "Artano is an NFT art Marketplace based on Cardano. NFT adoption on Cardano, here we come! :)",
+    "poolMetaTicker": "ARTA",
+    "poolMetaHomepage": "https://www.artano.io",
+    "poolMetaUrl": "https://defi-authority.github.io/data/metadata.json",
+    "poolExtendedMetaUrl": "",
+    "---": "--- DO NOT EDIT OR DELETE BELOW THIS LINE ---",
+    "poolID": "5db269adccba1e9041469efc646bf200a560d9e1fd666366334d4fc3",
+    "poolIDbech": "pool1tkexntwvhg0fqs2xnm7xg6ljqzjkpk0pl4nxxe3nf48ux8nucqy",
+    "poolMetaHash": "eccb6084745259c7e566082ae698ce96893c488d60af7c8b9644774d6185edb9",
+    "regCertCreated": "Thu, 18 Feb 2021 11:09:52 +0100",
+    "regCertFile": "ARTANO.pool.cert",
+    "regEpoch": "248",
+    "regSubmitted": "Thu, 18 Feb 2021 11:14:07 +0100 (only offline, no proof)"
 }
