@@ -1,6 +1,7 @@
 {
-  "name": "ARTANO",
-  "description": "Artano is an NFT art Marketplace based on Cardano. NFT adoption on Cardano, here we come :)",
+  "name": "Artano NFT Pool",
+  "description": "Artano is building an NFT art Marketplace on Cardano. Help us achieve low NFT fees! :)",
   "ticker": "ARTA",
-  "homepage": "https://www.artano.io"
+  "homepage": "https://www.artano.io",
+  "extended": "https://defi-authority.github.io/ARTANO.extended-metadata.json"
 }
